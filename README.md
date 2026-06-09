@@ -48,4 +48,5 @@ User Dashboard
 User
 
 👨‍💻 Author
-Swaraj Ingale
+Suyash Taral 
+
