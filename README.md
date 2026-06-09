@@ -56,4 +56,5 @@ Table Name: users
 ![User](screenshots/user.png)
 
 ## 👨‍💻 Author
-Swaraj Ingale
+Suyash Taral
+
